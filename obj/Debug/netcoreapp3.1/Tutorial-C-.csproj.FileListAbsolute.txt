@@ -1,0 +1,13 @@
+C:\Users\stefv\Documents\Unity\GitHub\Tutorial-C-\bin\Debug\netcoreapp3.1\Tutorial-C-.exe
+C:\Users\stefv\Documents\Unity\GitHub\Tutorial-C-\bin\Debug\netcoreapp3.1\Tutorial-C-.deps.json
+C:\Users\stefv\Documents\Unity\GitHub\Tutorial-C-\bin\Debug\netcoreapp3.1\Tutorial-C-.runtimeconfig.json
+C:\Users\stefv\Documents\Unity\GitHub\Tutorial-C-\bin\Debug\netcoreapp3.1\Tutorial-C-.runtimeconfig.dev.json
+C:\Users\stefv\Documents\Unity\GitHub\Tutorial-C-\bin\Debug\netcoreapp3.1\Tutorial-C-.dll
+C:\Users\stefv\Documents\Unity\GitHub\Tutorial-C-\bin\Debug\netcoreapp3.1\Tutorial-C-.pdb
+C:\Users\stefv\Documents\Unity\GitHub\Tutorial-C-\obj\Debug\netcoreapp3.1\Tutorial-C-.csprojAssemblyReference.cache
+C:\Users\stefv\Documents\Unity\GitHub\Tutorial-C-\obj\Debug\netcoreapp3.1\Tutorial-C-.AssemblyInfoInputs.cache
+C:\Users\stefv\Documents\Unity\GitHub\Tutorial-C-\obj\Debug\netcoreapp3.1\Tutorial-C-.AssemblyInfo.cs
+C:\Users\stefv\Documents\Unity\GitHub\Tutorial-C-\obj\Debug\netcoreapp3.1\Tutorial-C-.csproj.CoreCompileInputs.cache
+C:\Users\stefv\Documents\Unity\GitHub\Tutorial-C-\obj\Debug\netcoreapp3.1\Tutorial-C-.dll
+C:\Users\stefv\Documents\Unity\GitHub\Tutorial-C-\obj\Debug\netcoreapp3.1\Tutorial-C-.pdb
+C:\Users\stefv\Documents\Unity\GitHub\Tutorial-C-\obj\Debug\netcoreapp3.1\Tutorial-C-.genruntimeconfig.cache
